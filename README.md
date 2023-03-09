@@ -7,7 +7,8 @@ In this portfolio, I aim to showcase some of my work in data analytics and data 
 
 For my BachelorThesis I am diving deeper in the field of computer Vision which I am really excited for!
 
-Thank you for taking the time to visit my portfolio. I hope you will find it informative and engaging.
+Thank you for taking the time to visit my portfolio. I hope you will find it informative and engaging. 
+Keep in mind that my Portfolio presentation is still under construction ^^
 
 # When I am not working on data: 
 Weightlifting 💪
